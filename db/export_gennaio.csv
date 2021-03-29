@@ -1,0 +1,1340 @@
+﻿data;classe;sede;prodotto;numeroOrdinazioni
+2021-01-30;1;Centrale;Acqua frizzante;2
+2021-01-30;1;Centrale;Panino Crudo e Stracchino;3
+2021-01-30;1;Centrale;Panino Prosciutto;2
+2021-01-30;1;Centrale;Panino Salame;1
+2021-01-30;1;Centrale;Panino Tartufo;4
+2021-01-30;1;Centrale;Pizza;4
+2021-01-30;1;Centrale;Pizza sfoglia;1
+2021-01-30;1;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-30;1;Centrale;Schiacciata Cotto e Form.;1
+2021-01-30;1;Centrale;Schiacciata Mortad.;2
+2021-01-30;1;Centrale;Schiacciata Salame;1
+2021-01-30;1;Pionta;Acqua frizzante;3
+2021-01-30;1;Pionta;Acqua naturale;3
+2021-01-30;1;Pionta;Panino Cotto e Crema;1
+2021-01-30;1;Pionta;Panino Cotto e Formaggio;5
+2021-01-30;1;Pionta;Panino Crudo e Stracchino;2
+2021-01-30;1;Pionta;Panino Mortadella;1
+2021-01-30;1;Pionta;Panino Prosciutto;2
+2021-01-30;1;Pionta;Panino Tartufo;3
+2021-01-30;1;Pionta;Panino Tonno;2
+2021-01-30;1;Pionta;Pizza;3
+2021-01-30;1;Pionta;Schiacc. Cotto e Insal.;1
+2021-01-30;1;Pionta;Schiacciata Cotto e Crema;2
+2021-01-30;1;Pionta;Schiacciata Cotto e Form.;4
+2021-01-30;1;Pionta;Schiacciata Mortad.;2
+2021-01-30;1;Pionta;Schiacciata Salame;2
+2021-01-30;2;Centrale;Acqua frizzante;1
+2021-01-30;2;Centrale;Acqua naturale;4
+2021-01-30;2;Centrale;Panino Cotto e Crema;2
+2021-01-30;2;Centrale;Panino Cotto e Formaggio;3
+2021-01-30;2;Centrale;Panino Cotto e Insalata;1
+2021-01-30;2;Centrale;Panino Crudo e Stracchino;4
+2021-01-30;2;Centrale;Panino Mortadella;1
+2021-01-30;2;Centrale;Panino Prosciutto;4
+2021-01-30;2;Centrale;Panino Tartufo;3
+2021-01-30;2;Centrale;Pizza;2
+2021-01-30;2;Centrale;Schiacc. Cotto e Insal.;6
+2021-01-30;2;Centrale;Schiacciata Cotto e Form.;2
+2021-01-30;2;Centrale;Schiacciata Mortad.;1
+2021-01-30;2;Centrale;Schiacciata Prosc.;2
+2021-01-30;2;Centrale;Schiacciata Salame;2
+2021-01-30;2;Pionta;Acqua frizzante;1
+2021-01-30;2;Pionta;Panino Cotto e Formaggio;1
+2021-01-30;2;Pionta;Panino Prosciutto;1
+2021-01-30;2;Pionta;Schiacciata Cotto e Form.;2
+2021-01-30;2;Pionta;Schiacciata Salame;1
+2021-01-30;2;Pionta;Schiacciata Tonno;1
+2021-01-30;3;Centrale;Panino Cotto e Insalata;1
+2021-01-30;3;Centrale;Panino Crudo e Stracchino;1
+2021-01-30;3;Centrale;Panino Prosciutto;3
+2021-01-30;3;Centrale;Panino Tonno e Pomodoro;1
+2021-01-30;3;Centrale;Pizza;3
+2021-01-30;3;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-30;3;Centrale;Schiacciata Cotto e Crema;2
+2021-01-30;3;Centrale;Schiacciata Cotto e Form.;2
+2021-01-30;3;Centrale;Schiacciata Mortad.;3
+2021-01-30;3;Centrale;Schiacciata Prosc.;3
+2021-01-30;3;Centrale;Schiacciata Salame;3
+2021-01-30;3;Centrale;Schiacciata Tonno;3
+2021-01-30;3;Meccanici;Panino Cotto e Insalata;1
+2021-01-30;3;Meccanici;Panino Mortadella;1
+2021-01-30;3;Meccanici;Panino Tartufo;1
+2021-01-30;3;Meccanici;Schiacciata Tonno;1
+2021-01-30;4;Centrale;Acqua naturale;1
+2021-01-30;4;Centrale;Panino Cotto e Formaggio;1
+2021-01-30;4;Centrale;Panino Cotto e Insalata;1
+2021-01-30;4;Centrale;Panino Prosciutto;1
+2021-01-30;4;Centrale;Panino Salame;1
+2021-01-30;4;Centrale;Panino Tonno e Pomodoro;1
+2021-01-30;4;Centrale;Pizza;1
+2021-01-30;4;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-30;4;Centrale;Schiacciata Cotto e Crema;2
+2021-01-30;4;Centrale;Schiacciata Cotto e Form.;2
+2021-01-30;4;Centrale;Schiacciata Mortad.;1
+2021-01-30;4;Centrale;Schiacciata Prosc.;1
+2021-01-30;4;Centrale;Schiacciata Salame;1
+2021-01-30;4;Centrale;Schiacciata Tonno;3
+2021-01-30;4;Meccanici;Acqua naturale;1
+2021-01-30;4;Meccanici;Panino Cotto e Formaggio;1
+2021-01-30;4;Meccanici;Panino Crudo e Stracchino;1
+2021-01-30;4;Meccanici;Panino Tartufo;1
+2021-01-30;4;Meccanici;Pizza sfoglia;1
+2021-01-30;4;Meccanici;Schiacc. Cotto e Insal.;1
+2021-01-30;4;Meccanici;Schiacciata Cotto e Form.;1
+2021-01-30;4;Meccanici;Schiacciata Prosc.;1
+2021-01-30;4;Meccanici;Schiacciata Tonno;1
+2021-01-30;5;Centrale;Acqua frizzante;2
+2021-01-30;5;Centrale;Acqua naturale;2
+2021-01-30;5;Centrale;Panino Cotto e Formaggio;2
+2021-01-30;5;Centrale;Panino Cotto e Insalata;2
+2021-01-30;5;Centrale;Panino Salame;1
+2021-01-30;5;Centrale;Panino Tartufo;3
+2021-01-30;5;Centrale;Panino Tonno;2
+2021-01-30;5;Centrale;Panino Tonno e Pomodoro;1
+2021-01-30;5;Centrale;Pizza;2
+2021-01-30;5;Centrale;Pizza sfoglia;1
+2021-01-30;5;Centrale;Schiacciata Cotto e Crema;2
+2021-01-30;5;Centrale;Schiacciata Cotto e Form.;1
+2021-01-30;5;Centrale;Schiacciata Mortad.;4
+2021-01-30;5;Centrale;Schiacciata Prosc.;3
+2021-01-30;5;Centrale;Schiacciata Salame;1
+2021-01-30;5;Centrale;Schiacciata Tonno;2
+2021-01-30;5;Meccanici;Panino Cotto e Insalata;1
+2021-01-30;5;Meccanici;Schiacciata Prosc.;1
+2021-01-30;5;Meccanici;Schiacciata Tonno;1
+2021-01-29;1;Centrale;Acqua frizzante;4
+2021-01-29;1;Centrale;Acqua naturale;1
+2021-01-29;1;Centrale;Panino Cotto e Formaggio;1
+2021-01-29;1;Centrale;Panino Crudo e Stracchino;2
+2021-01-29;1;Centrale;Panino Mortadella;1
+2021-01-29;1;Centrale;Panino Prosciutto;1
+2021-01-29;1;Centrale;Panino Salame;1
+2021-01-29;1;Centrale;Panino Tartufo;2
+2021-01-29;1;Centrale;Pizza;4
+2021-01-29;1;Centrale;Schiacciata Cotto e Crema;2
+2021-01-29;1;Centrale;Schiacciata Cotto e Form.;2
+2021-01-29;1;Centrale;Schiacciata Mortad.;1
+2021-01-29;1;Centrale;Schiacciata Salame;1
+2021-01-29;1;Pionta;Acqua frizzante;3
+2021-01-29;1;Pionta;Acqua naturale;3
+2021-01-29;1;Pionta;Panino Cotto e Crema;3
+2021-01-29;1;Pionta;Panino Cotto e Formaggio;3
+2021-01-29;1;Pionta;Panino Crudo e Stracchino;2
+2021-01-29;1;Pionta;Panino Mortadella;3
+2021-01-29;1;Pionta;Panino Prosciutto;2
+2021-01-29;1;Pionta;Panino Tartufo;2
+2021-01-29;1;Pionta;Panino Tonno;4
+2021-01-29;1;Pionta;Pizza;2
+2021-01-29;1;Pionta;Pizza sfoglia;2
+2021-01-29;1;Pionta;Schiacc. Cotto e Insal.;2
+2021-01-29;1;Pionta;Schiacciata Cotto e Crema;1
+2021-01-29;1;Pionta;Schiacciata Cotto e Form.;5
+2021-01-29;1;Pionta;Schiacciata Mortad.;1
+2021-01-29;1;Pionta;Schiacciata Prosc.;1
+2021-01-29;2;Centrale;Acqua frizzante;1
+2021-01-29;2;Centrale;Acqua naturale;4
+2021-01-29;2;Centrale;Panino Cotto e Crema;2
+2021-01-29;2;Centrale;Panino Cotto e Formaggio;2
+2021-01-29;2;Centrale;Panino Cotto e Insalata;3
+2021-01-29;2;Centrale;Panino Crudo e Stracchino;1
+2021-01-29;2;Centrale;Panino Mortadella;1
+2021-01-29;2;Centrale;Panino Prosciutto;4
+2021-01-29;2;Centrale;Panino Salame;1
+2021-01-29;2;Centrale;Panino Tartufo;3
+2021-01-29;2;Centrale;Panino Tonno;4
+2021-01-29;2;Centrale;Pizza;1
+2021-01-29;2;Centrale;Schiacc. Cotto e Insal.;7
+2021-01-29;2;Centrale;Schiacciata Cotto e Crema;1
+2021-01-29;2;Centrale;Schiacciata Cotto e Form.;2
+2021-01-29;2;Centrale;Schiacciata Mortad.;2
+2021-01-29;2;Centrale;Schiacciata Prosc.;1
+2021-01-29;2;Centrale;Schiacciata Salame;1
+2021-01-29;2;Centrale;Schiacciata Tonno;1
+2021-01-29;2;Pionta;Panino Cotto e Formaggio;1
+2021-01-29;2;Pionta;Panino Mortadella;1
+2021-01-29;2;Pionta;Panino Salame;1
+2021-01-29;2;Pionta;Panino Tonno;1
+2021-01-29;2;Pionta;Panino Tonno e Pomodoro;1
+2021-01-29;2;Pionta;Schiacciata Cotto e Form.;1
+2021-01-29;2;Pionta;Schiacciata Salame;1
+2021-01-29;2;Pionta;Schiacciata Tonno;1
+2021-01-29;3;Centrale;Acqua frizzante;1
+2021-01-29;3;Centrale;Acqua naturale;1
+2021-01-29;3;Centrale;Panino Crudo e Stracchino;1
+2021-01-29;3;Centrale;Panino Mortadella;1
+2021-01-29;3;Centrale;Panino Salame;1
+2021-01-29;3;Centrale;Panino Tonno;1
+2021-01-29;3;Centrale;Panino Tonno e Pomodoro;1
+2021-01-29;3;Centrale;Pizza;3
+2021-01-29;3;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-29;3;Centrale;Schiacciata Cotto e Form.;1
+2021-01-29;3;Centrale;Schiacciata Mortad.;1
+2021-01-29;3;Centrale;Schiacciata Prosc.;2
+2021-01-29;3;Centrale;Schiacciata Salame;2
+2021-01-29;3;Meccanici;Panino Tonno e Pomodoro;1
+2021-01-29;4;Centrale;Acqua naturale;1
+2021-01-29;4;Centrale;Panino Cotto e Formaggio;1
+2021-01-29;4;Centrale;Panino Prosciutto;3
+2021-01-29;4;Centrale;Panino Tartufo;1
+2021-01-29;4;Centrale;Pizza;1
+2021-01-29;4;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-29;4;Centrale;Schiacciata Cotto e Crema;1
+2021-01-29;4;Centrale;Schiacciata Cotto e Form.;4
+2021-01-29;4;Centrale;Schiacciata Tonno;2
+2021-01-29;4;Meccanici;Panino Crudo e Stracchino;1
+2021-01-29;4;Meccanici;Panino Prosciutto;1
+2021-01-29;4;Meccanici;Panino Tartufo;2
+2021-01-29;4;Meccanici;Schiacciata Cotto e Form.;3
+2021-01-29;4;Meccanici;Schiacciata Salame;1
+2021-01-29;5;Centrale;Acqua naturale;1
+2021-01-29;5;Centrale;Panino Cotto e Crema;1
+2021-01-29;5;Centrale;Panino Cotto e Formaggio;2
+2021-01-29;5;Centrale;Panino Crudo e Stracchino;1
+2021-01-29;5;Centrale;Panino Prosciutto;1
+2021-01-29;5;Centrale;Panino Tartufo;4
+2021-01-29;5;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-29;5;Centrale;Schiacciata Cotto e Form.;1
+2021-01-29;5;Centrale;Schiacciata Mortad.;1
+2021-01-29;5;Centrale;Schiacciata Prosc.;2
+2021-01-29;5;Centrale;Schiacciata Salame;1
+2021-01-29;5;Centrale;Schiacciata Tonno;1
+2021-01-29;5;Meccanici;Acqua frizzante;1
+2021-01-29;5;Meccanici;Panino Crudo e Stracchino;2
+2021-01-29;5;Meccanici;Panino Tonno e Pomodoro;1
+2021-01-29;5;Meccanici;Pizza sfoglia;2
+2021-01-29;5;Meccanici;Schiacciata Cotto e Crema;2
+2021-01-29;5;Meccanici;Schiacciata Tonno;1
+2021-01-28;1;Centrale;Acqua naturale;1
+2021-01-28;1;Centrale;Panino Cotto e Crema;3
+2021-01-28;1;Centrale;Panino Crudo e Stracchino;1
+2021-01-28;1;Centrale;Panino Salame;2
+2021-01-28;1;Centrale;Pizza;4
+2021-01-28;1;Centrale;Schiacciata Cotto e Crema;2
+2021-01-28;1;Centrale;Schiacciata Cotto e Form.;2
+2021-01-28;1;Centrale;Schiacciata Mortad.;1
+2021-01-28;1;Centrale;Schiacciata Prosc.;1
+2021-01-28;1;Centrale;Schiacciata Salame;1
+2021-01-28;1;Pionta;Acqua frizzante;2
+2021-01-28;1;Pionta;Acqua naturale;2
+2021-01-28;1;Pionta;Panino Cotto e Crema;2
+2021-01-28;1;Pionta;Panino Cotto e Formaggio;5
+2021-01-28;1;Pionta;Panino Mortadella;1
+2021-01-28;1;Pionta;Panino Tartufo;4
+2021-01-28;1;Pionta;Panino Tonno;4
+2021-01-28;1;Pionta;Panino Tonno e Pomodoro;1
+2021-01-28;1;Pionta;Pizza;2
+2021-01-28;1;Pionta;Schiacciata Cotto e Crema;2
+2021-01-28;1;Pionta;Schiacciata Cotto e Form.;2
+2021-01-28;1;Pionta;Schiacciata Mortad.;3
+2021-01-28;1;Pionta;Schiacciata Tonno;1
+2021-01-28;2;Centrale;Acqua frizzante;1
+2021-01-28;2;Centrale;Acqua naturale;1
+2021-01-28;2;Centrale;Panino Cotto e Crema;2
+2021-01-28;2;Centrale;Panino Cotto e Formaggio;1
+2021-01-28;2;Centrale;Panino Cotto e Insalata;2
+2021-01-28;2;Centrale;Panino Crudo e Stracchino;1
+2021-01-28;2;Centrale;Panino Mortadella;1
+2021-01-28;2;Centrale;Panino Prosciutto;2
+2021-01-28;2;Centrale;Panino Tonno;1
+2021-01-28;2;Centrale;Schiacc. Cotto e Insal.;2
+2021-01-28;2;Centrale;Schiacciata Cotto e Crema;1
+2021-01-28;2;Centrale;Schiacciata Cotto e Form.;3
+2021-01-28;2;Centrale;Schiacciata Mortad.;1
+2021-01-28;2;Centrale;Schiacciata Prosc.;1
+2021-01-28;2;Centrale;Schiacciata Salame;1
+2021-01-28;2;Centrale;Schiacciata Tonno;2
+2021-01-28;2;Pionta;Panino Crudo e Stracchino;1
+2021-01-28;2;Pionta;Panino Salame;1
+2021-01-28;2;Pionta;Panino Tonno;1
+2021-01-28;2;Pionta;Schiacciata Cotto e Form.;1
+2021-01-28;3;Centrale;Acqua frizzante;1
+2021-01-28;3;Centrale;Panino Prosciutto;1
+2021-01-28;3;Centrale;Panino Tartufo;1
+2021-01-28;3;Centrale;Panino Tonno e Pomodoro;1
+2021-01-28;3;Centrale;Schiacc. Cotto e Insal.;6
+2021-01-28;3;Centrale;Schiacciata Cotto e Crema;2
+2021-01-28;3;Centrale;Schiacciata Cotto e Form.;1
+2021-01-28;3;Centrale;Schiacciata Mortad.;1
+2021-01-28;3;Centrale;Schiacciata Prosc.;3
+2021-01-28;3;Centrale;Schiacciata Salame;4
+2021-01-28;3;Centrale;Schiacciata Tonno;1
+2021-01-28;3;Meccanici;Panino Mortadella;1
+2021-01-28;3;Meccanici;Panino Tartufo;2
+2021-01-28;3;Meccanici;Pizza sfoglia;1
+2021-01-28;3;Meccanici;Schiacciata Cotto e Form.;1
+2021-01-28;3;Meccanici;Schiacciata Salame;1
+2021-01-28;3;Meccanici;Schiacciata Tonno;1
+2021-01-28;4;Centrale;Acqua naturale;1
+2021-01-28;4;Centrale;Panino Cotto e Crema;1
+2021-01-28;4;Centrale;Panino Cotto e Formaggio;1
+2021-01-28;4;Centrale;Panino Prosciutto;3
+2021-01-28;4;Centrale;Panino Tonno;1
+2021-01-28;4;Centrale;Schiacc. Cotto e Insal.;2
+2021-01-28;4;Centrale;Schiacciata Cotto e Crema;2
+2021-01-28;4;Centrale;Schiacciata Cotto e Form.;4
+2021-01-28;4;Centrale;Schiacciata Tonno;2
+2021-01-28;4;Meccanici;Schiacciata Cotto e Form.;3
+2021-01-28;5;Centrale;Panino Prosciutto;1
+2021-01-28;5;Centrale;Panino Tartufo;3
+2021-01-28;5;Centrale;Panino Tonno;4
+2021-01-28;5;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-28;5;Centrale;Schiacciata Cotto e Form.;1
+2021-01-28;5;Centrale;Schiacciata Mortad.;2
+2021-01-28;5;Centrale;Schiacciata Prosc.;1
+2021-01-28;5;Centrale;Schiacciata Tonno;2
+2021-01-28;5;Meccanici;Panino Cotto e Crema;1
+2021-01-28;5;Meccanici;Panino Crudo e Stracchino;1
+2021-01-28;5;Meccanici;Panino Tonno e Pomodoro;1
+2021-01-28;5;Meccanici;Pizza sfoglia;4
+2021-01-28;5;Meccanici;Schiacciata Cotto e Crema;1
+2021-01-27;1;Centrale;Acqua frizzante;1
+2021-01-27;1;Centrale;Panino Cotto e Crema;2
+2021-01-27;1;Centrale;Pizza;1
+2021-01-27;1;Centrale;Schiacciata Prosc.;1
+2021-01-27;1;Centrale;Schiacciata Salame;1
+2021-01-27;1;Pionta;Acqua frizzante;2
+2021-01-27;1;Pionta;Acqua naturale;2
+2021-01-27;1;Pionta;Panino Cotto e Crema;3
+2021-01-27;1;Pionta;Panino Cotto e Formaggio;5
+2021-01-27;1;Pionta;Panino Crudo e Stracchino;4
+2021-01-27;1;Pionta;Panino Mortadella;1
+2021-01-27;1;Pionta;Panino Prosciutto;2
+2021-01-27;1;Pionta;Panino Salame;1
+2021-01-27;1;Pionta;Panino Tartufo;2
+2021-01-27;1;Pionta;Panino Tonno;1
+2021-01-27;1;Pionta;Pizza;3
+2021-01-27;1;Pionta;Schiacciata Cotto e Crema;2
+2021-01-27;1;Pionta;Schiacciata Cotto e Form.;6
+2021-01-27;1;Pionta;Schiacciata Mortad.;2
+2021-01-27;2;Centrale;Acqua frizzante;1
+2021-01-27;2;Centrale;Acqua naturale;1
+2021-01-27;2;Centrale;Panino Cotto e Crema;3
+2021-01-27;2;Centrale;Panino Cotto e Insalata;1
+2021-01-27;2;Centrale;Panino Crudo e Stracchino;1
+2021-01-27;2;Centrale;Panino Mortadella;1
+2021-01-27;2;Centrale;Panino Salame;1
+2021-01-27;2;Centrale;Panino Tartufo;3
+2021-01-27;2;Centrale;Panino Tonno;4
+2021-01-27;2;Centrale;Panino Tonno e Pomodoro;1
+2021-01-27;2;Centrale;Pizza;1
+2021-01-27;2;Centrale;Schiacc. Cotto e Insal.;7
+2021-01-27;2;Centrale;Schiacciata Cotto e Crema;2
+2021-01-27;2;Centrale;Schiacciata Cotto e Form.;5
+2021-01-27;2;Centrale;Schiacciata Prosc.;5
+2021-01-27;2;Centrale;Schiacciata Salame;1
+2021-01-27;2;Centrale;Schiacciata Tonno;3
+2021-01-27;2;Pionta;Panino Cotto e Formaggio;1
+2021-01-27;2;Pionta;Panino Prosciutto;1
+2021-01-27;2;Pionta;Panino Salame;1
+2021-01-27;2;Pionta;Panino Tonno;1
+2021-01-27;2;Pionta;Schiacciata Cotto e Form.;1
+2021-01-27;2;Pionta;Schiacciata Mortad.;1
+2021-01-27;3;Centrale;Acqua frizzante;1
+2021-01-27;3;Centrale;Acqua naturale;1
+2021-01-27;3;Centrale;Panino Cotto e Formaggio;1
+2021-01-27;3;Centrale;Panino Prosciutto;1
+2021-01-27;3;Centrale;Panino Salame;1
+2021-01-27;3;Centrale;Panino Tonno e Pomodoro;1
+2021-01-27;3;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-27;3;Centrale;Schiacciata Cotto e Crema;1
+2021-01-27;3;Centrale;Schiacciata Cotto e Form.;2
+2021-01-27;3;Centrale;Schiacciata Mortad.;1
+2021-01-27;3;Centrale;Schiacciata Prosc.;1
+2021-01-27;3;Centrale;Schiacciata Tonno;3
+2021-01-27;3;Meccanici;Panino Crudo e Stracchino;1
+2021-01-27;3;Meccanici;Panino Mortadella;1
+2021-01-27;3;Meccanici;Panino Tartufo;1
+2021-01-27;3;Meccanici;Panino Tonno e Pomodoro;1
+2021-01-27;3;Meccanici;Pizza sfoglia;1
+2021-01-27;3;Meccanici;Schiacciata Tonno;1
+2021-01-27;4;Centrale;Acqua naturale;1
+2021-01-27;4;Centrale;Panino Cotto e Crema;3
+2021-01-27;4;Centrale;Panino Cotto e Formaggio;2
+2021-01-27;4;Centrale;Panino Mortadella;1
+2021-01-27;4;Centrale;Panino Prosciutto;3
+2021-01-27;4;Centrale;Panino Tartufo;1
+2021-01-27;4;Centrale;Panino Tonno e Pomodoro;1
+2021-01-27;4;Centrale;Pizza;1
+2021-01-27;4;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-27;4;Centrale;Schiacciata Cotto e Crema;3
+2021-01-27;4;Centrale;Schiacciata Prosc.;1
+2021-01-27;4;Centrale;Schiacciata Salame;1
+2021-01-27;4;Centrale;Schiacciata Tonno;2
+2021-01-27;4;Meccanici;Acqua naturale;1
+2021-01-27;4;Meccanici;Panino Prosciutto;1
+2021-01-27;4;Meccanici;Panino Tartufo;1
+2021-01-27;4;Meccanici;Schiacciata Cotto e Crema;1
+2021-01-27;5;Centrale;Panino Cotto e Crema;1
+2021-01-27;5;Centrale;Panino Cotto e Formaggio;1
+2021-01-27;5;Centrale;Panino Crudo e Stracchino;1
+2021-01-27;5;Centrale;Panino Prosciutto;1
+2021-01-27;5;Centrale;Panino Salame;1
+2021-01-27;5;Centrale;Panino Tartufo;2
+2021-01-27;5;Centrale;Schiacc. Cotto e Insal.;2
+2021-01-27;5;Centrale;Schiacciata Cotto e Crema;1
+2021-01-27;5;Centrale;Schiacciata Mortad.;5
+2021-01-27;5;Centrale;Schiacciata Salame;1
+2021-01-27;5;Centrale;Schiacciata Tonno;2
+2021-01-27;5;Meccanici;Panino Cotto e Crema;1
+2021-01-27;5;Meccanici;Schiacciata Cotto e Form.;1
+2021-01-26;1;Centrale;Acqua naturale;2
+2021-01-26;1;Centrale;Panino Crudo e Stracchino;2
+2021-01-26;1;Centrale;Panino Salame;1
+2021-01-26;1;Centrale;Pizza;1
+2021-01-26;1;Centrale;Pizza sfoglia;1
+2021-01-26;1;Centrale;Schiacciata Cotto e Crema;1
+2021-01-26;1;Centrale;Schiacciata Cotto e Form.;3
+2021-01-26;1;Centrale;Schiacciata Mortad.;2
+2021-01-26;1;Centrale;Schiacciata Salame;1
+2021-01-26;1;Pionta;Acqua frizzante;4
+2021-01-26;1;Pionta;Acqua naturale;1
+2021-01-26;1;Pionta;Panino Cotto e Crema;3
+2021-01-26;1;Pionta;Panino Cotto e Formaggio;3
+2021-01-26;1;Pionta;Panino Crudo e Stracchino;1
+2021-01-26;1;Pionta;Panino Mortadella;1
+2021-01-26;1;Pionta;Panino Prosciutto;2
+2021-01-26;1;Pionta;Panino Salame;1
+2021-01-26;1;Pionta;Panino Tartufo;2
+2021-01-26;1;Pionta;Panino Tonno;3
+2021-01-26;1;Pionta;Pizza;1
+2021-01-26;1;Pionta;Schiacciata Cotto e Crema;3
+2021-01-26;1;Pionta;Schiacciata Cotto e Form.;4
+2021-01-26;1;Pionta;Schiacciata Prosc.;1
+2021-01-26;1;Pionta;Schiacciata Tonno;1
+2021-01-26;2;Centrale;Acqua frizzante;1
+2021-01-26;2;Centrale;Acqua naturale;5
+2021-01-26;2;Centrale;Panino Cotto e Crema;4
+2021-01-26;2;Centrale;Panino Cotto e Formaggio;1
+2021-01-26;2;Centrale;Panino Cotto e Insalata;4
+2021-01-26;2;Centrale;Panino Crudo e Stracchino;1
+2021-01-26;2;Centrale;Panino Mortadella;2
+2021-01-26;2;Centrale;Panino Prosciutto;4
+2021-01-26;2;Centrale;Panino Salame;1
+2021-01-26;2;Centrale;Panino Tartufo;4
+2021-01-26;2;Centrale;Panino Tonno;2
+2021-01-26;2;Centrale;Panino Tonno e Pomodoro;1
+2021-01-26;2;Centrale;Pizza;2
+2021-01-26;2;Centrale;Schiacc. Cotto e Insal.;4
+2021-01-26;2;Centrale;Schiacciata Cotto e Crema;1
+2021-01-26;2;Centrale;Schiacciata Cotto e Form.;3
+2021-01-26;2;Centrale;Schiacciata Mortad.;1
+2021-01-26;2;Centrale;Schiacciata Tonno;5
+2021-01-26;2;Pionta;Panino Prosciutto;1
+2021-01-26;2;Pionta;Panino Tonno;1
+2021-01-26;2;Pionta;Schiacciata Cotto e Form.;5
+2021-01-26;3;Centrale;Acqua naturale;1
+2021-01-26;3;Centrale;Panino Cotto e Crema;1
+2021-01-26;3;Centrale;Panino Prosciutto;2
+2021-01-26;3;Centrale;Panino Salame;1
+2021-01-26;3;Centrale;Panino Tartufo;1
+2021-01-26;3;Centrale;Panino Tonno e Pomodoro;1
+2021-01-26;3;Centrale;Schiacc. Cotto e Insal.;5
+2021-01-26;3;Centrale;Schiacciata Cotto e Crema;3
+2021-01-26;3;Centrale;Schiacciata Cotto e Form.;2
+2021-01-26;3;Centrale;Schiacciata Mortad.;2
+2021-01-26;3;Centrale;Schiacciata Prosc.;1
+2021-01-26;3;Centrale;Schiacciata Salame;2
+2021-01-26;3;Centrale;Schiacciata Tonno;1
+2021-01-26;3;Meccanici;Panino Mortadella;1
+2021-01-26;3;Meccanici;Panino Tartufo;1
+2021-01-26;3;Meccanici;Pizza sfoglia;1
+2021-01-26;3;Meccanici;Schiacciata Cotto e Crema;1
+2021-01-26;3;Meccanici;Schiacciata Tonno;1
+2021-01-26;4;Centrale;Acqua naturale;1
+2021-01-26;4;Centrale;Panino Crudo e Stracchino;2
+2021-01-26;4;Centrale;Panino Tartufo;3
+2021-01-26;4;Centrale;Panino Tonno e Pomodoro;1
+2021-01-26;4;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-26;4;Centrale;Schiacciata Cotto e Crema;2
+2021-01-26;4;Centrale;Schiacciata Cotto e Form.;3
+2021-01-26;4;Centrale;Schiacciata Prosc.;4
+2021-01-26;4;Centrale;Schiacciata Salame;2
+2021-01-26;4;Centrale;Schiacciata Tonno;1
+2021-01-26;4;Meccanici;Panino Crudo e Stracchino;1
+2021-01-26;4;Meccanici;Panino Prosciutto;1
+2021-01-26;4;Meccanici;Panino Tartufo;1
+2021-01-26;4;Meccanici;Schiacciata Cotto e Crema;1
+2021-01-26;4;Meccanici;Schiacciata Cotto e Form.;2
+2021-01-26;5;Centrale;Acqua frizzante;2
+2021-01-26;5;Centrale;Panino Cotto e Insalata;1
+2021-01-26;5;Centrale;Panino Prosciutto;1
+2021-01-26;5;Centrale;Panino Tartufo;2
+2021-01-26;5;Centrale;Panino Tonno;1
+2021-01-26;5;Centrale;Panino Tonno e Pomodoro;2
+2021-01-26;5;Centrale;Pizza sfoglia;1
+2021-01-26;5;Centrale;Schiacciata Cotto e Form.;1
+2021-01-26;5;Centrale;Schiacciata Prosc.;2
+2021-01-26;5;Centrale;Schiacciata Tonno;3
+2021-01-26;5;Meccanici;Acqua naturale;1
+2021-01-26;5;Meccanici;Panino Cotto e Formaggio;1
+2021-01-26;5;Meccanici;Panino Tonno e Pomodoro;1
+2021-01-26;5;Meccanici;Schiacciata Mortad.;1
+2021-01-25;1;Centrale;Acqua naturale;1
+2021-01-25;1;Centrale;Panino Cotto e Crema;2
+2021-01-25;1;Centrale;Panino Crudo e Stracchino;1
+2021-01-25;1;Centrale;Panino Salame;1
+2021-01-25;1;Centrale;Panino Tartufo;1
+2021-01-25;1;Centrale;Pizza;2
+2021-01-25;1;Centrale;Pizza sfoglia;2
+2021-01-25;1;Centrale;Schiacciata Cotto e Form.;2
+2021-01-25;1;Centrale;Schiacciata Prosc.;1
+2021-01-25;1;Centrale;Schiacciata Salame;1
+2021-01-25;1;Pionta;Acqua naturale;1
+2021-01-25;1;Pionta;Panino Cotto e Crema;3
+2021-01-25;1;Pionta;Panino Cotto e Formaggio;1
+2021-01-25;1;Pionta;Panino Mortadella;1
+2021-01-25;1;Pionta;Panino Tartufo;1
+2021-01-25;1;Pionta;Panino Tonno;4
+2021-01-25;1;Pionta;Pizza;3
+2021-01-25;1;Pionta;Schiacc. Cotto e Insal.;1
+2021-01-25;1;Pionta;Schiacciata Cotto e Crema;1
+2021-01-25;1;Pionta;Schiacciata Cotto e Form.;4
+2021-01-25;1;Pionta;Schiacciata Mortad.;1
+2021-01-25;1;Pionta;Schiacciata Prosc.;1
+2021-01-25;2;Centrale;Acqua naturale;4
+2021-01-25;2;Centrale;Panino Cotto e Crema;1
+2021-01-25;2;Centrale;Panino Cotto e Formaggio;2
+2021-01-25;2;Centrale;Panino Prosciutto;2
+2021-01-25;2;Centrale;Panino Salame;1
+2021-01-25;2;Centrale;Panino Tartufo;2
+2021-01-25;2;Centrale;Panino Tonno;1
+2021-01-25;2;Centrale;Panino Tonno e Pomodoro;2
+2021-01-25;2;Centrale;Schiacc. Cotto e Insal.;6
+2021-01-25;2;Centrale;Schiacciata Cotto e Crema;2
+2021-01-25;2;Centrale;Schiacciata Cotto e Form.;3
+2021-01-25;2;Centrale;Schiacciata Prosc.;1
+2021-01-25;2;Centrale;Schiacciata Salame;1
+2021-01-25;2;Centrale;Schiacciata Tonno;1
+2021-01-25;2;Pionta;Acqua frizzante;1
+2021-01-25;2;Pionta;Panino Cotto e Formaggio;1
+2021-01-25;2;Pionta;Panino Prosciutto;3
+2021-01-25;2;Pionta;Panino Tonno;3
+2021-01-25;2;Pionta;Schiacciata Cotto e Form.;2
+2021-01-25;2;Pionta;Schiacciata Mortad.;1
+2021-01-25;2;Pionta;Schiacciata Salame;1
+2021-01-25;3;Centrale;Acqua frizzante;1
+2021-01-25;3;Centrale;Panino Cotto e Crema;1
+2021-01-25;3;Centrale;Panino Cotto e Insalata;2
+2021-01-25;3;Centrale;Panino Prosciutto;1
+2021-01-25;3;Centrale;Panino Tartufo;1
+2021-01-25;3;Centrale;Pizza;3
+2021-01-25;3;Centrale;Pizza sfoglia;1
+2021-01-25;3;Centrale;Schiacc. Cotto e Insal.;8
+2021-01-25;3;Centrale;Schiacciata Cotto e Crema;2
+2021-01-25;3;Centrale;Schiacciata Cotto e Form.;1
+2021-01-25;3;Centrale;Schiacciata Prosc.;1
+2021-01-25;3;Centrale;Schiacciata Salame;3
+2021-01-25;3;Centrale;Schiacciata Tonno;3
+2021-01-25;3;Meccanici;Acqua naturale;1
+2021-01-25;3;Meccanici;Panino Crudo e Stracchino;1
+2021-01-25;3;Meccanici;Schiacciata Cotto e Crema;1
+2021-01-25;3;Meccanici;Schiacciata Prosc.;1
+2021-01-25;4;Centrale;Acqua frizzante;1
+2021-01-25;4;Centrale;Panino Cotto e Formaggio;1
+2021-01-25;4;Centrale;Panino Prosciutto;2
+2021-01-25;4;Centrale;Panino Tartufo;3
+2021-01-25;4;Centrale;Panino Tonno;1
+2021-01-25;4;Centrale;Panino Tonno e Pomodoro;1
+2021-01-25;4;Centrale;Pizza;1
+2021-01-25;4;Centrale;Pizza sfoglia;1
+2021-01-25;4;Centrale;Schiacciata Cotto e Crema;1
+2021-01-25;4;Centrale;Schiacciata Cotto e Form.;3
+2021-01-25;4;Centrale;Schiacciata Mortad.;1
+2021-01-25;4;Centrale;Schiacciata Prosc.;2
+2021-01-25;4;Centrale;Schiacciata Tonno;1
+2021-01-25;4;Meccanici;Panino Crudo e Stracchino;1
+2021-01-25;4;Meccanici;Panino Tartufo;1
+2021-01-25;4;Meccanici;Schiacciata Cotto e Form.;2
+2021-01-25;5;Centrale;Acqua frizzante;2
+2021-01-25;5;Centrale;Acqua naturale;2
+2021-01-25;5;Centrale;Panino Cotto e Insalata;1
+2021-01-25;5;Centrale;Panino Prosciutto;2
+2021-01-25;5;Centrale;Panino Tartufo;2
+2021-01-25;5;Centrale;Panino Tonno;3
+2021-01-25;5;Centrale;Pizza;1
+2021-01-25;5;Centrale;Pizza sfoglia;1
+2021-01-25;5;Centrale;Schiacc. Cotto e Insal.;2
+2021-01-25;5;Centrale;Schiacciata Mortad.;1
+2021-01-25;5;Centrale;Schiacciata Prosc.;1
+2021-01-25;5;Centrale;Schiacciata Salame;1
+2021-01-25;5;Centrale;Schiacciata Tonno;1
+2021-01-25;5;Meccanici;Panino Cotto e Crema;1
+2021-01-25;5;Meccanici;Panino Crudo e Stracchino;1
+2021-01-25;5;Meccanici;Panino Tonno e Pomodoro;1
+2021-01-25;5;Meccanici;Pizza sfoglia;2
+2021-01-23;1;Centrale;Acqua frizzante;1
+2021-01-23;1;Centrale;Acqua naturale;5
+2021-01-23;1;Centrale;Panino Cotto e Crema;1
+2021-01-23;1;Centrale;Panino Cotto e Formaggio;1
+2021-01-23;1;Centrale;Panino Cotto e Insalata;1
+2021-01-23;1;Centrale;Panino Crudo e Stracchino;2
+2021-01-23;1;Centrale;Panino Mortadella;2
+2021-01-23;1;Centrale;Panino Prosciutto;1
+2021-01-23;1;Centrale;Panino Salame;1
+2021-01-23;1;Centrale;Panino Tartufo;1
+2021-01-23;1;Centrale;Schiacciata Cotto e Crema;1
+2021-01-23;1;Centrale;Schiacciata Cotto e Form.;2
+2021-01-23;1;Centrale;Schiacciata Mortad.;1
+2021-01-23;1;Centrale;Schiacciata Prosc.;1
+2021-01-23;1;Centrale;Schiacciata Salame;1
+2021-01-23;1;Pionta;Acqua naturale;3
+2021-01-23;1;Pionta;Panino Cotto e Crema;1
+2021-01-23;1;Pionta;Panino Cotto e Formaggio;5
+2021-01-23;1;Pionta;Panino Crudo e Stracchino;1
+2021-01-23;1;Pionta;Panino Mortadella;1
+2021-01-23;1;Pionta;Panino Prosciutto;2
+2021-01-23;1;Pionta;Panino Salame;1
+2021-01-23;1;Pionta;Panino Tartufo;3
+2021-01-23;1;Pionta;Panino Tonno;1
+2021-01-23;1;Pionta;Panino Tonno e Pomodoro;4
+2021-01-23;1;Pionta;Pizza;3
+2021-01-23;1;Pionta;Schiacc. Cotto e Insal.;1
+2021-01-23;1;Pionta;Schiacciata Cotto e Crema;3
+2021-01-23;1;Pionta;Schiacciata Cotto e Form.;1
+2021-01-23;1;Pionta;Schiacciata Crudo e Stracc.;1
+2021-01-23;1;Pionta;Schiacciata Prosc.;2
+2021-01-23;1;Pionta;Schiacciata Salame;1
+2021-01-23;2;Centrale;Acqua frizzante;1
+2021-01-23;2;Centrale;Panino Cotto e Crema;1
+2021-01-23;2;Centrale;Panino Cotto e Formaggio;1
+2021-01-23;2;Centrale;Panino Mortadella;2
+2021-01-23;2;Centrale;Panino Prosciutto;1
+2021-01-23;2;Centrale;Panino Tonno e Pomodoro;1
+2021-01-23;2;Centrale;Pizza;4
+2021-01-23;2;Centrale;Schiacc. Cotto e Insal.;2
+2021-01-23;2;Centrale;Schiacciata Cotto e Crema;1
+2021-01-23;2;Centrale;Schiacciata Cotto e Form.;2
+2021-01-23;2;Centrale;Schiacciata Prosc.;1
+2021-01-23;2;Pionta;Acqua naturale;1
+2021-01-23;2;Pionta;Panino Cotto e Formaggio;1
+2021-01-23;2;Pionta;Panino Tartufo;1
+2021-01-23;2;Pionta;Pizza;1
+2021-01-23;2;Pionta;Schiacciata Cotto e Form.;2
+2021-01-23;2;Pionta;Schiacciata Mortad.;1
+2021-01-23;2;Pionta;Schiacciata Prosc.;1
+2021-01-23;2;Pionta;Schiacciata Salame;1
+2021-01-23;3;Centrale;Acqua frizzante;1
+2021-01-23;3;Centrale;Panino Cotto e Insalata;1
+2021-01-23;3;Centrale;Panino Tartufo;1
+2021-01-23;3;Centrale;Panino Tonno;2
+2021-01-23;3;Centrale;Pizza;2
+2021-01-23;3;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-23;3;Centrale;Schiacciata Cotto e Crema;3
+2021-01-23;3;Centrale;Schiacciata Cotto e Form.;1
+2021-01-23;3;Centrale;Schiacciata Mortad.;1
+2021-01-23;3;Centrale;Schiacciata Prosc.;3
+2021-01-23;3;Centrale;Schiacciata Tonno;5
+2021-01-23;3;Meccanici;Panino Crudo e Stracchino;1
+2021-01-23;3;Meccanici;Panino Prosciutto;1
+2021-01-23;3;Meccanici;Panino Salame;1
+2021-01-23;3;Meccanici;Schiacc. Cotto e Insal.;1
+2021-01-23;3;Meccanici;Schiacciata Mortad.;1
+2021-01-23;3;Meccanici;Schiacciata Prosc.;1
+2021-01-23;3;Meccanici;Schiacciata Tonno;2
+2021-01-23;4;Centrale;Panino Cotto e Formaggio;1
+2021-01-23;4;Centrale;Panino Cotto e Insalata;3
+2021-01-23;4;Centrale;Panino Prosciutto;3
+2021-01-23;4;Centrale;Panino Tartufo;2
+2021-01-23;4;Centrale;Schiacc. Cotto e Insal.;4
+2021-01-23;4;Centrale;Schiacciata Cotto e Crema;2
+2021-01-23;4;Centrale;Schiacciata Cotto e Form.;4
+2021-01-23;4;Centrale;Schiacciata Mortad.;1
+2021-01-23;4;Centrale;Schiacciata Prosc.;1
+2021-01-23;4;Centrale;Schiacciata Salame;1
+2021-01-23;4;Centrale;Schiacciata Tonno;2
+2021-01-23;4;Meccanici;Panino Crudo e Stracchino;1
+2021-01-23;4;Meccanici;Panino Tartufo;1
+2021-01-23;4;Meccanici;Pizza;1
+2021-01-23;4;Meccanici;Pizza sfoglia;1
+2021-01-23;4;Meccanici;Schiacc. Cotto e Insal.;1
+2021-01-23;4;Meccanici;Schiacciata Cotto e Crema;1
+2021-01-23;4;Meccanici;Schiacciata Prosc.;1
+2021-01-23;5;Centrale;Acqua frizzante;4
+2021-01-23;5;Centrale;Acqua naturale;1
+2021-01-23;5;Centrale;Panino Cotto e Crema;1
+2021-01-23;5;Centrale;Panino Cotto e Formaggio;5
+2021-01-23;5;Centrale;Panino Crudo e Stracchino;6
+2021-01-23;5;Centrale;Panino Tartufo;2
+2021-01-23;5;Centrale;Panino Tonno;2
+2021-01-23;5;Centrale;Pizza;2
+2021-01-23;5;Centrale;Pizza sfoglia;3
+2021-01-23;5;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-23;5;Centrale;Schiacciata Cotto e Crema;2
+2021-01-23;5;Centrale;Schiacciata Cotto e Form.;4
+2021-01-23;5;Centrale;Schiacciata Mortad.;2
+2021-01-23;5;Centrale;Schiacciata Prosc.;4
+2021-01-23;5;Centrale;Schiacciata Salame;2
+2021-01-23;5;Centrale;Schiacciata Tonno;5
+2021-01-23;5;Meccanici;Panino Mortadella;1
+2021-01-23;5;Meccanici;Panino Tartufo;1
+2021-01-22;1;Centrale;Acqua naturale;4
+2021-01-22;1;Centrale;Panino Cotto e Formaggio;3
+2021-01-22;1;Centrale;Panino Cotto e Insalata;2
+2021-01-22;1;Centrale;Panino Crudo e Stracchino;1
+2021-01-22;1;Centrale;Panino Mortadella;4
+2021-01-22;1;Centrale;Panino Prosciutto;1
+2021-01-22;1;Centrale;Panino Tartufo;1
+2021-01-22;1;Centrale;Panino Tonno;1
+2021-01-22;1;Centrale;Pizza;1
+2021-01-22;1;Centrale;Schiacciata Cotto e Crema;2
+2021-01-22;1;Centrale;Schiacciata Cotto e Form.;4
+2021-01-22;1;Centrale;Schiacciata Prosc.;1
+2021-01-22;1;Centrale;Schiacciata Salame;1
+2021-01-22;1;Centrale;Schiacciata Tonno;1
+2021-01-22;1;Pionta;Acqua frizzante;1
+2021-01-22;1;Pionta;Acqua naturale;3
+2021-01-22;1;Pionta;Panino Cotto e Crema;2
+2021-01-22;1;Pionta;Panino Cotto e Formaggio;6
+2021-01-22;1;Pionta;Panino Crudo e Stracchino;1
+2021-01-22;1;Pionta;Panino Mortadella;1
+2021-01-22;1;Pionta;Panino Prosciutto;4
+2021-01-22;1;Pionta;Panino Tartufo;3
+2021-01-22;1;Pionta;Panino Tonno;1
+2021-01-22;1;Pionta;Panino Tonno e Pomodoro;7
+2021-01-22;1;Pionta;Pizza;1
+2021-01-22;1;Pionta;Schiacciata Cotto e Crema;2
+2021-01-22;1;Pionta;Schiacciata Cotto e Form.;1
+2021-01-22;1;Pionta;Schiacciata Mortad.;1
+2021-01-22;1;Pionta;Schiacciata Salame;1
+2021-01-22;1;Pionta;Schiacciata Tonno;1
+2021-01-22;2;Centrale;Acqua frizzante;1
+2021-01-22;2;Centrale;Acqua naturale;1
+2021-01-22;2;Centrale;Panino Cotto e Crema;2
+2021-01-22;2;Centrale;Panino Cotto e Formaggio;3
+2021-01-22;2;Centrale;Panino Prosciutto;2
+2021-01-22;2;Centrale;Panino Salame;2
+2021-01-22;2;Centrale;Panino Tartufo;2
+2021-01-22;2;Centrale;Pizza;4
+2021-01-22;2;Centrale;Pizza sfoglia;1
+2021-01-22;2;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-22;2;Centrale;Schiacciata Cotto e Crema;2
+2021-01-22;2;Centrale;Schiacciata Cotto e Form.;2
+2021-01-22;2;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-22;2;Centrale;Schiacciata Mortad.;3
+2021-01-22;2;Centrale;Schiacciata Prosc.;1
+2021-01-22;2;Centrale;Schiacciata Tonno;1
+2021-01-22;2;Pionta;Acqua naturale;1
+2021-01-22;2;Pionta;Panino Cotto e Insalata;3
+2021-01-22;2;Pionta;Panino Prosciutto;2
+2021-01-22;2;Pionta;Pizza;2
+2021-01-22;2;Pionta;Schiacciata Cotto e Crema;1
+2021-01-22;2;Pionta;Schiacciata Mortad.;1
+2021-01-22;2;Pionta;Schiacciata Prosc.;1
+2021-01-22;3;Centrale;Acqua frizzante;1
+2021-01-22;3;Centrale;Acqua naturale;1
+2021-01-22;3;Centrale;Panino Tartufo;1
+2021-01-22;3;Centrale;Panino Tonno e Pomodoro;1
+2021-01-22;3;Centrale;Pizza sfoglia;1
+2021-01-22;3;Centrale;Schiacciata Cotto e Crema;1
+2021-01-22;3;Centrale;Schiacciata Cotto e Form.;1
+2021-01-22;3;Centrale;Schiacciata Prosc.;4
+2021-01-22;3;Centrale;Schiacciata Salame;1
+2021-01-22;3;Centrale;Schiacciata Tonno;4
+2021-01-22;3;Meccanici;Acqua naturale;1
+2021-01-22;3;Meccanici;Panino Mortadella;1
+2021-01-22;3;Meccanici;Panino Tartufo;1
+2021-01-22;3;Meccanici;Schiacc. Cotto e Insal.;2
+2021-01-22;3;Meccanici;Schiacciata Cotto e Crema;1
+2021-01-22;3;Meccanici;Schiacciata Tonno;2
+2021-01-22;4;Centrale;Panino Cotto e Formaggio;4
+2021-01-22;4;Centrale;Panino Prosciutto;2
+2021-01-22;4;Centrale;Panino Tonno;1
+2021-01-22;4;Centrale;Schiacc. Cotto e Insal.;5
+2021-01-22;4;Centrale;Schiacciata Cotto e Form.;3
+2021-01-22;4;Centrale;Schiacciata Prosc.;2
+2021-01-22;4;Centrale;Schiacciata Salame;2
+2021-01-22;4;Centrale;Schiacciata Tartufo;1
+2021-01-22;4;Centrale;Schiacciata Tonno;5
+2021-01-22;4;Meccanici;Panino Crudo e Stracchino;1
+2021-01-22;4;Meccanici;Panino Tartufo;1
+2021-01-22;4;Meccanici;Pizza;1
+2021-01-22;5;Centrale;Acqua frizzante;1
+2021-01-22;5;Centrale;Acqua naturale;2
+2021-01-22;5;Centrale;Panino Cotto e Formaggio;4
+2021-01-22;5;Centrale;Panino Crudo e Stracchino;3
+2021-01-22;5;Centrale;Panino Mortadella;2
+2021-01-22;5;Centrale;Panino Tartufo;3
+2021-01-22;5;Centrale;Pizza;4
+2021-01-22;5;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-22;5;Centrale;Schiacciata Cotto e Crema;2
+2021-01-22;5;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-22;5;Centrale;Schiacciata Mortad.;2
+2021-01-22;5;Centrale;Schiacciata Prosc.;1
+2021-01-22;5;Centrale;Schiacciata Salame;1
+2021-01-22;5;Centrale;Schiacciata Tartufo;1
+2021-01-22;5;Centrale;Schiacciata Tonno;4
+2021-01-22;5;Meccanici;Panino Cotto e Formaggio;1
+2021-01-22;5;Meccanici;Panino Crudo e Stracchino;1
+2021-01-21;1;Centrale;Acqua naturale;5
+2021-01-21;1;Centrale;Panino Cotto e Crema;1
+2021-01-21;1;Centrale;Panino Cotto e Formaggio;3
+2021-01-21;1;Centrale;Panino Crudo e Stracchino;1
+2021-01-21;1;Centrale;Panino Mortadella;3
+2021-01-21;1;Centrale;Panino Prosciutto;2
+2021-01-21;1;Centrale;Panino Tartufo;1
+2021-01-21;1;Centrale;Schiacciata Cotto e Crema;2
+2021-01-21;1;Centrale;Schiacciata Cotto e Form.;1
+2021-01-21;1;Centrale;Schiacciata Prosc.;3
+2021-01-21;1;Centrale;Schiacciata Salame;2
+2021-01-21;1;Centrale;Schiacciata Tonno;1
+2021-01-21;1;Pionta;Acqua naturale;4
+2021-01-21;1;Pionta;Panino Cotto e Crema;5
+2021-01-21;1;Pionta;Panino Cotto e Formaggio;2
+2021-01-21;1;Pionta;Panino Cotto e Insalata;2
+2021-01-21;1;Pionta;Panino Prosciutto;1
+2021-01-21;1;Pionta;Panino Salame;2
+2021-01-21;1;Pionta;Panino Tartufo;2
+2021-01-21;1;Pionta;Panino Tonno;2
+2021-01-21;1;Pionta;Panino Tonno e Pomodoro;2
+2021-01-21;1;Pionta;Pizza;3
+2021-01-21;1;Pionta;Schiacciata Cotto e Crema;2
+2021-01-21;1;Pionta;Schiacciata Cotto e Form.;4
+2021-01-21;1;Pionta;Schiacciata Mortad.;3
+2021-01-21;1;Pionta;Schiacciata Prosc.;3
+2021-01-21;1;Pionta;Schiacciata Tartufo;1
+2021-01-21;1;Pionta;Schiacciata Tonno e Pom.;2
+2021-01-21;2;Centrale;Acqua frizzante;3
+2021-01-21;2;Centrale;Acqua naturale;1
+2021-01-21;2;Centrale;Panino Cotto e Crema;1
+2021-01-21;2;Centrale;Panino Cotto e Formaggio;4
+2021-01-21;2;Centrale;Panino Prosciutto;1
+2021-01-21;2;Centrale;Panino Salame;1
+2021-01-21;2;Centrale;Panino Tartufo;1
+2021-01-21;2;Centrale;Panino Tonno;1
+2021-01-21;2;Centrale;Pizza;3
+2021-01-21;2;Centrale;Pizza sfoglia;1
+2021-01-21;2;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-21;2;Centrale;Schiacciata Cotto e Form.;6
+2021-01-21;2;Centrale;Schiacciata Mortad.;2
+2021-01-21;2;Centrale;Schiacciata Tartufo;1
+2021-01-21;2;Centrale;Schiacciata Tonno;2
+2021-01-21;2;Centrale;Schiacciata Tonno e Pom.;1
+2021-01-21;2;Pionta;Panino Cotto e Insalata;2
+2021-01-21;2;Pionta;Panino Crudo e Stracchino;1
+2021-01-21;2;Pionta;Panino Prosciutto;1
+2021-01-21;2;Pionta;Pizza;1
+2021-01-21;2;Pionta;Pizza sfoglia;1
+2021-01-21;2;Pionta;Schiacc. Cotto e Insal.;1
+2021-01-21;2;Pionta;Schiacciata Mortad.;1
+2021-01-21;2;Pionta;Schiacciata Prosc.;2
+2021-01-21;3;Centrale;Acqua frizzante;2
+2021-01-21;3;Centrale;Acqua naturale;1
+2021-01-21;3;Centrale;Panino Cotto e Crema;2
+2021-01-21;3;Centrale;Panino Cotto e Insalata;1
+2021-01-21;3;Centrale;Panino Crudo e Stracchino;1
+2021-01-21;3;Centrale;Panino Prosciutto;3
+2021-01-21;3;Centrale;Panino Tartufo;1
+2021-01-21;3;Centrale;Panino Tonno;4
+2021-01-21;3;Centrale;Pizza;1
+2021-01-21;3;Centrale;Pizza sfoglia;1
+2021-01-21;3;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-21;3;Centrale;Schiacciata Cotto e Crema;2
+2021-01-21;3;Centrale;Schiacciata Cotto e Form.;1
+2021-01-21;3;Centrale;Schiacciata Mortad.;1
+2021-01-21;3;Centrale;Schiacciata Tonno;4
+2021-01-21;3;Meccanici;Panino Tartufo;1
+2021-01-21;3;Meccanici;Pizza sfoglia;1
+2021-01-21;3;Meccanici;Schiacc. Cotto e Insal.;2
+2021-01-21;3;Meccanici;Schiacciata Salame;1
+2021-01-21;3;Meccanici;Schiacciata Tonno;3
+2021-01-21;4;Centrale;Panino Cotto e Formaggio;1
+2021-01-21;4;Centrale;Panino Prosciutto;1
+2021-01-21;4;Centrale;Panino Salame;1
+2021-01-21;4;Centrale;Panino Tartufo;1
+2021-01-21;4;Centrale;Panino Tonno;1
+2021-01-21;4;Centrale;Pizza;1
+2021-01-21;4;Centrale;Pizza sfoglia;1
+2021-01-21;4;Centrale;Schiacciata Cotto e Form.;1
+2021-01-21;4;Centrale;Schiacciata Mortad.;1
+2021-01-21;4;Centrale;Schiacciata Prosc.;2
+2021-01-21;4;Meccanici;Acqua naturale;1
+2021-01-21;4;Meccanici;Panino Tartufo;1
+2021-01-21;4;Meccanici;Pizza;1
+2021-01-21;5;Centrale;Acqua naturale;1
+2021-01-21;5;Centrale;Panino Cotto e Crema;1
+2021-01-21;5;Centrale;Panino Cotto e Formaggio;2
+2021-01-21;5;Centrale;Panino Mortadella;3
+2021-01-21;5;Centrale;Panino Prosciutto;1
+2021-01-21;5;Centrale;Panino Tartufo;1
+2021-01-21;5;Centrale;Panino Tonno;2
+2021-01-21;5;Centrale;Panino Tonno e Pomodoro;1
+2021-01-21;5;Centrale;Pizza;1
+2021-01-21;5;Centrale;Schiacciata Cotto e Crema;4
+2021-01-21;5;Centrale;Schiacciata Cotto e Form.;2
+2021-01-21;5;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-21;5;Centrale;Schiacciata Mortad.;3
+2021-01-21;5;Centrale;Schiacciata Prosc.;1
+2021-01-21;5;Centrale;Schiacciata Tartufo;1
+2021-01-21;5;Centrale;Schiacciata Tonno;4
+2021-01-21;5;Meccanici;Panino Cotto e Formaggio;1
+2021-01-21;5;Meccanici;Panino Crudo e Stracchino;1
+2021-01-21;5;Meccanici;Schiacciata Cotto e Form.;1
+2021-01-20;1;Centrale;Acqua naturale;4
+2021-01-20;1;Centrale;Panino Cotto e Crema;1
+2021-01-20;1;Centrale;Panino Cotto e Formaggio;2
+2021-01-20;1;Centrale;Panino Mortadella;3
+2021-01-20;1;Centrale;Pizza;1
+2021-01-20;1;Centrale;Schiacciata Cotto e Crema;2
+2021-01-20;1;Centrale;Schiacciata Cotto e Form.;2
+2021-01-20;1;Centrale;Schiacciata Mortad.;1
+2021-01-20;1;Centrale;Schiacciata Prosc.;2
+2021-01-20;1;Centrale;Schiacciata Salame;1
+2021-01-20;1;Centrale;Schiacciata Tonno;1
+2021-01-20;1;Pionta;Acqua frizzante;2
+2021-01-20;1;Pionta;Panino Cotto e Crema;2
+2021-01-20;1;Pionta;Panino Cotto e Formaggio;7
+2021-01-20;1;Pionta;Panino Crudo e Stracchino;1
+2021-01-20;1;Pionta;Panino Mortadella;3
+2021-01-20;1;Pionta;Panino Prosciutto;4
+2021-01-20;1;Pionta;Panino Salame;1
+2021-01-20;1;Pionta;Panino Tartufo;1
+2021-01-20;1;Pionta;Panino Tonno;1
+2021-01-20;1;Pionta;Panino Tonno e Pomodoro;5
+2021-01-20;1;Pionta;Schiacciata Cotto e Crema;2
+2021-01-20;1;Pionta;Schiacciata Cotto e Form.;2
+2021-01-20;1;Pionta;Schiacciata Crudo e Stracc.;1
+2021-01-20;1;Pionta;Schiacciata Mortad.;3
+2021-01-20;1;Pionta;Schiacciata Prosc.;2
+2021-01-20;1;Pionta;Schiacciata Tartufo;2
+2021-01-20;1;Pionta;Schiacciata Tonno;2
+2021-01-20;1;Pionta;Schiacciata Tonno e Pom.;2
+2021-01-20;2;Centrale;Acqua naturale;4
+2021-01-20;2;Centrale;Panino Cotto e Crema;2
+2021-01-20;2;Centrale;Panino Cotto e Formaggio;5
+2021-01-20;2;Centrale;Panino Crudo e Stracchino;1
+2021-01-20;2;Centrale;Panino Prosciutto;2
+2021-01-20;2;Centrale;Panino Salame;2
+2021-01-20;2;Centrale;Panino Tartufo;1
+2021-01-20;2;Centrale;Pizza;3
+2021-01-20;2;Centrale;Pizza sfoglia;1
+2021-01-20;2;Centrale;Schiacc. Cotto e Insal.;4
+2021-01-20;2;Centrale;Schiacciata Cotto e Crema;2
+2021-01-20;2;Centrale;Schiacciata Cotto e Form.;3
+2021-01-20;2;Centrale;Schiacciata Crudo e Stracc.;2
+2021-01-20;2;Centrale;Schiacciata Mortad.;2
+2021-01-20;2;Centrale;Schiacciata Prosc.;2
+2021-01-20;2;Centrale;Schiacciata Tartufo;1
+2021-01-20;2;Centrale;Schiacciata Tonno;1
+2021-01-20;2;Pionta;Acqua naturale;3
+2021-01-20;2;Pionta;Panino Cotto e Insalata;1
+2021-01-20;2;Pionta;Panino Crudo e Stracchino;1
+2021-01-20;2;Pionta;Schiacc. Cotto e Insal.;2
+2021-01-20;2;Pionta;Schiacciata Cotto e Form.;1
+2021-01-20;2;Pionta;Schiacciata Crudo e Stracc.;1
+2021-01-20;2;Pionta;Schiacciata Mortad.;1
+2021-01-20;2;Pionta;Schiacciata Prosc.;4
+2021-01-20;2;Pionta;Schiacciata Salame;1
+2021-01-20;2;Pionta;Schiacciata Tonno;2
+2021-01-20;3;Centrale;Acqua naturale;1
+2021-01-20;3;Centrale;Panino Cotto e Insalata;1
+2021-01-20;3;Centrale;Panino Tartufo;3
+2021-01-20;3;Centrale;Panino Tonno;4
+2021-01-20;3;Centrale;Pizza;1
+2021-01-20;3;Centrale;Pizza sfoglia;1
+2021-01-20;3;Centrale;Schiacciata Mortad.;1
+2021-01-20;3;Centrale;Schiacciata Prosc.;2
+2021-01-20;3;Centrale;Schiacciata Salame;1
+2021-01-20;3;Centrale;Schiacciata Tonno;5
+2021-01-20;3;Meccanici;Panino Cotto e Formaggio;1
+2021-01-20;3;Meccanici;Panino Salame;1
+2021-01-20;3;Meccanici;Panino Tartufo;2
+2021-01-20;3;Meccanici;Schiacciata Prosc.;1
+2021-01-20;3;Meccanici;Schiacciata Tonno;1
+2021-01-20;4;Centrale;Panino Cotto e Formaggio;1
+2021-01-20;4;Centrale;Panino Cotto e Insalata;1
+2021-01-20;4;Centrale;Panino Crudo e Stracchino;1
+2021-01-20;4;Centrale;Panino Salame;2
+2021-01-20;4;Centrale;Panino Tonno;1
+2021-01-20;4;Centrale;Pizza;2
+2021-01-20;4;Centrale;Schiacc. Cotto e Insal.;4
+2021-01-20;4;Centrale;Schiacciata Cotto e Crema;2
+2021-01-20;4;Centrale;Schiacciata Cotto e Form.;2
+2021-01-20;4;Centrale;Schiacciata Prosc.;5
+2021-01-20;4;Centrale;Schiacciata Tartufo;1
+2021-01-20;4;Centrale;Schiacciata Tonno;2
+2021-01-20;4;Meccanici;Schiacc. Cotto e Insal.;1
+2021-01-20;4;Meccanici;Schiacciata Tartufo;1
+2021-01-20;5;Centrale;Acqua frizzante;1
+2021-01-20;5;Centrale;Acqua naturale;1
+2021-01-20;5;Centrale;Panino Cotto e Crema;1
+2021-01-20;5;Centrale;Panino Crudo e Stracchino;3
+2021-01-20;5;Centrale;Panino Mortadella;1
+2021-01-20;5;Centrale;Panino Tartufo;1
+2021-01-20;5;Centrale;Panino Tonno;2
+2021-01-20;5;Centrale;Pizza;1
+2021-01-20;5;Centrale;Schiacciata Cotto e Crema;1
+2021-01-20;5;Centrale;Schiacciata Cotto e Form.;4
+2021-01-20;5;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-20;5;Centrale;Schiacciata Mortad.;3
+2021-01-20;5;Centrale;Schiacciata Prosc.;2
+2021-01-20;5;Centrale;Schiacciata Tonno;6
+2021-01-20;5;Meccanici;Panino Cotto e Formaggio;1
+2021-01-20;5;Meccanici;Schiacciata Prosc.;1
+2021-01-19;1;Centrale;Panino Cotto e Crema;1
+2021-01-19;1;Centrale;Panino Cotto e Formaggio;1
+2021-01-19;1;Centrale;Panino Crudo e Stracchino;1
+2021-01-19;1;Centrale;Panino Salame;2
+2021-01-19;1;Centrale;Pizza;1
+2021-01-19;1;Centrale;Schiacciata Cotto e Form.;2
+2021-01-19;1;Centrale;Schiacciata Tonno;1
+2021-01-19;1;Pionta;Acqua frizzante;1
+2021-01-19;1;Pionta;Panino Cotto e Crema;1
+2021-01-19;1;Pionta;Panino Cotto e Formaggio;3
+2021-01-19;1;Pionta;Panino Crudo e Stracchino;1
+2021-01-19;1;Pionta;Panino Mortadella;1
+2021-01-19;1;Pionta;Panino Prosciutto;1
+2021-01-19;1;Pionta;Panino Salame;1
+2021-01-19;1;Pionta;Panino Tonno e Pomodoro;9
+2021-01-19;1;Pionta;Pizza;2
+2021-01-19;1;Pionta;Schiacciata Cotto e Crema;4
+2021-01-19;1;Pionta;Schiacciata Cotto e Form.;1
+2021-01-19;1;Pionta;Schiacciata Crudo e Stracc.;1
+2021-01-19;1;Pionta;Schiacciata Mortad.;1
+2021-01-19;1;Pionta;Schiacciata Prosc.;1
+2021-01-19;1;Pionta;Schiacciata Tartufo;2
+2021-01-19;1;Pionta;Schiacciata Tonno;1
+2021-01-19;1;Pionta;Schiacciata Tonno e Pom.;2
+2021-01-19;2;Centrale;Acqua frizzante;1
+2021-01-19;2;Centrale;Acqua naturale;2
+2021-01-19;2;Centrale;Panino Cotto e Formaggio;1
+2021-01-19;2;Centrale;Panino Crudo e Stracchino;1
+2021-01-19;2;Centrale;Panino Prosciutto;1
+2021-01-19;2;Centrale;Panino Tartufo;2
+2021-01-19;2;Centrale;Panino Tonno;1
+2021-01-19;2;Centrale;Panino Tonno e Pomodoro;1
+2021-01-19;2;Centrale;Pizza;3
+2021-01-19;2;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-19;2;Centrale;Schiacciata Cotto e Crema;1
+2021-01-19;2;Centrale;Schiacciata Mortad.;2
+2021-01-19;2;Centrale;Schiacciata Prosc.;1
+2021-01-19;2;Centrale;Schiacciata Tonno;1
+2021-01-19;2;Pionta;Acqua frizzante;1
+2021-01-19;2;Pionta;Acqua naturale;2
+2021-01-19;2;Pionta;Panino Cotto e Formaggio;1
+2021-01-19;2;Pionta;Panino Cotto e Insalata;1
+2021-01-19;2;Pionta;Panino Prosciutto;1
+2021-01-19;2;Pionta;Panino Tonno;2
+2021-01-19;2;Pionta;Schiacc. Cotto e Insal.;2
+2021-01-19;2;Pionta;Schiacciata Cotto e Crema;2
+2021-01-19;2;Pionta;Schiacciata Cotto e Form.;1
+2021-01-19;2;Pionta;Schiacciata Mortad.;1
+2021-01-19;2;Pionta;Schiacciata Prosc.;2
+2021-01-19;2;Pionta;Schiacciata Salame;1
+2021-01-19;2;Pionta;Schiacciata Tonno;2
+2021-01-19;2;Pionta;Schiacciata Tonno e Pom.;1
+2021-01-19;3;Centrale;Acqua naturale;1
+2021-01-19;3;Centrale;Panino Tartufo;1
+2021-01-19;3;Centrale;Panino Tonno;2
+2021-01-19;3;Centrale;Panino Tonno e Pomodoro;1
+2021-01-19;3;Centrale;Pizza;1
+2021-01-19;3;Centrale;Pizza sfoglia;1
+2021-01-19;3;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-19;3;Centrale;Schiacciata Cotto e Crema;1
+2021-01-19;3;Centrale;Schiacciata Mortad.;2
+2021-01-19;3;Centrale;Schiacciata Prosc.;1
+2021-01-19;3;Centrale;Schiacciata Tonno;4
+2021-01-19;3;Meccanici;Schiacc. Cotto e Insal.;1
+2021-01-19;3;Meccanici;Schiacciata Cotto e Crema;1
+2021-01-19;3;Meccanici;Schiacciata Prosc.;1
+2021-01-19;3;Meccanici;Schiacciata Tartufo;1
+2021-01-19;3;Meccanici;Schiacciata Tonno;2
+2021-01-19;4;Centrale;Panino Cotto e Formaggio;2
+2021-01-19;4;Centrale;Panino Cotto e Insalata;2
+2021-01-19;4;Centrale;Panino Crudo e Stracchino;1
+2021-01-19;4;Centrale;Panino Prosciutto;2
+2021-01-19;4;Centrale;Panino Salame;1
+2021-01-19;4;Centrale;Panino Tartufo;1
+2021-01-19;4;Centrale;Panino Tonno;1
+2021-01-19;4;Centrale;Schiacc. Cotto e Insal.;1
+2021-01-19;4;Centrale;Schiacciata Cotto e Crema;4
+2021-01-19;4;Centrale;Schiacciata Cotto e Form.;1
+2021-01-19;4;Centrale;Schiacciata Mortad.;1
+2021-01-19;4;Centrale;Schiacciata Prosc.;3
+2021-01-19;4;Centrale;Schiacciata Salame;1
+2021-01-19;4;Centrale;Schiacciata Tartufo;1
+2021-01-19;4;Centrale;Schiacciata Tonno;1
+2021-01-19;4;Meccanici;Panino Cotto e Formaggio;1
+2021-01-19;4;Meccanici;Panino Tartufo;1
+2021-01-19;4;Meccanici;Pizza sfoglia;4
+2021-01-19;4;Meccanici;Schiacciata Crudo e Stracc.;2
+2021-01-19;4;Meccanici;Schiacciata Tartufo;1
+2021-01-19;5;Centrale;Acqua frizzante;2
+2021-01-19;5;Centrale;Acqua naturale;1
+2021-01-19;5;Centrale;Panino Mortadella;1
+2021-01-19;5;Centrale;Panino Tartufo;3
+2021-01-19;5;Centrale;Panino Tonno;1
+2021-01-19;5;Centrale;Pizza;1
+2021-01-19;5;Centrale;Pizza sfoglia;1
+2021-01-19;5;Centrale;Schiacciata Cotto e Form.;4
+2021-01-19;5;Centrale;Schiacciata Crudo e Stracc.;2
+2021-01-19;5;Centrale;Schiacciata Prosc.;2
+2021-01-19;5;Centrale;Schiacciata Salame;2
+2021-01-19;5;Centrale;Schiacciata Tonno;2
+2021-01-19;5;Centrale;Schiacciata Tonno e Pom.;1
+2021-01-19;5;Meccanici;Acqua naturale;1
+2021-01-19;5;Meccanici;Panino Cotto e Formaggio;1
+2021-01-19;5;Meccanici;Schiacciata Tonno;1
+2021-01-18;1;Centrale;Acqua frizzante;1
+2021-01-18;1;Centrale;Acqua naturale;3
+2021-01-18;1;Centrale;Panino Cotto e Crema;1
+2021-01-18;1;Centrale;Panino Cotto e Formaggio;3
+2021-01-18;1;Centrale;Panino Cotto e Insalata;1
+2021-01-18;1;Centrale;Panino Mortadella;2
+2021-01-18;1;Centrale;Panino Prosciutto;1
+2021-01-18;1;Centrale;Panino Salame;2
+2021-01-18;1;Centrale;Pizza;1
+2021-01-18;1;Centrale;Schiacciata Cotto e Form.;3
+2021-01-18;1;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-18;1;Centrale;Schiacciata Mortad.;3
+2021-01-18;1;Centrale;Schiacciata Prosc.;1
+2021-01-18;1;Centrale;Schiacciata Salame;1
+2021-01-18;1;Centrale;Schiacciata Tonno;1
+2021-01-18;1;Pionta;Acqua frizzante;1
+2021-01-18;1;Pionta;Acqua naturale;3
+2021-01-18;1;Pionta;Panino Cotto e Crema;2
+2021-01-18;1;Pionta;Panino Crudo e Stracchino;1
+2021-01-18;1;Pionta;Panino Prosciutto;1
+2021-01-18;1;Pionta;Panino Tartufo;1
+2021-01-18;1;Pionta;Panino Tonno e Pomodoro;1
+2021-01-18;1;Pionta;Pizza;2
+2021-01-18;1;Pionta;Schiacc. Cotto e Insal.;1
+2021-01-18;1;Pionta;Schiacciata Cotto e Crema;2
+2021-01-18;1;Pionta;Schiacciata Cotto e Form.;3
+2021-01-18;1;Pionta;Schiacciata Crudo e Stracc.;1
+2021-01-18;1;Pionta;Schiacciata Mortad.;1
+2021-01-18;1;Pionta;Schiacciata Prosc.;1
+2021-01-18;1;Pionta;Schiacciata Tonno;1
+2021-01-18;2;Centrale;Acqua naturale;2
+2021-01-18;2;Centrale;Panino Cotto e Crema;1
+2021-01-18;2;Centrale;Panino Cotto e Formaggio;1
+2021-01-18;2;Centrale;Panino Tonno;1
+2021-01-18;2;Centrale;Panino Tonno e Pomodoro;1
+2021-01-18;2;Centrale;Pizza;3
+2021-01-18;2;Centrale;Pizza sfoglia;1
+2021-01-18;2;Centrale;Schiacc. Cotto e Insal.;2
+2021-01-18;2;Centrale;Schiacciata Cotto e Crema;3
+2021-01-18;2;Centrale;Schiacciata Mortad.;1
+2021-01-18;2;Centrale;Schiacciata Prosc.;1
+2021-01-18;2;Centrale;Schiacciata Tartufo;1
+2021-01-18;2;Pionta;Acqua naturale;1
+2021-01-18;2;Pionta;Panino Cotto e Insalata;1
+2021-01-18;2;Pionta;Pizza;1
+2021-01-18;2;Pionta;Schiacc. Cotto e Insal.;1
+2021-01-18;2;Pionta;Schiacciata Cotto e Form.;1
+2021-01-18;2;Pionta;Schiacciata Prosc.;2
+2021-01-18;2;Pionta;Schiacciata Tonno;1
+2021-01-18;3;Centrale;Acqua frizzante;1
+2021-01-18;3;Centrale;Acqua naturale;2
+2021-01-18;3;Centrale;Panino Cotto e Insalata;1
+2021-01-18;3;Centrale;Panino Crudo e Stracchino;1
+2021-01-18;3;Centrale;Panino Tartufo;1
+2021-01-18;3;Centrale;Panino Tonno;2
+2021-01-18;3;Centrale;Panino Tonno e Pomodoro;1
+2021-01-18;3;Centrale;Schiacciata Cotto e Crema;2
+2021-01-18;3;Centrale;Schiacciata Cotto e Form.;2
+2021-01-18;3;Centrale;Schiacciata Mortad.;1
+2021-01-18;3;Centrale;Schiacciata Prosc.;1
+2021-01-18;3;Centrale;Schiacciata Salame;2
+2021-01-18;3;Centrale;Schiacciata Tartufo;1
+2021-01-18;3;Centrale;Schiacciata Tonno;5
+2021-01-18;3;Meccanici;Schiacciata Prosc.;1
+2021-01-18;3;Meccanici;Schiacciata Tonno;1
+2021-01-18;4;Centrale;Panino Cotto e Formaggio;1
+2021-01-18;4;Centrale;Panino Cotto e Insalata;1
+2021-01-18;4;Centrale;Panino Crudo e Stracchino;1
+2021-01-18;4;Centrale;Panino Prosciutto;1
+2021-01-18;4;Centrale;Panino Tartufo;1
+2021-01-18;4;Centrale;Panino Tonno;1
+2021-01-18;4;Centrale;Schiacciata Cotto e Crema;1
+2021-01-18;4;Centrale;Schiacciata Cotto e Form.;1
+2021-01-18;4;Centrale;Schiacciata Prosc.;1
+2021-01-18;4;Centrale;Schiacciata Tonno;1
+2021-01-18;4;Meccanici;Panino Prosciutto;1
+2021-01-18;4;Meccanici;Pizza sfoglia;2
+2021-01-18;4;Meccanici;Schiacc. Cotto e Insal.;1
+2021-01-18;4;Meccanici;Schiacciata Tartufo;1
+2021-01-18;5;Centrale;Acqua frizzante;2
+2021-01-18;5;Centrale;Acqua naturale;1
+2021-01-18;5;Centrale;Panino Cotto e Formaggio;2
+2021-01-18;5;Centrale;Panino Tartufo;2
+2021-01-18;5;Centrale;Pizza sfoglia;2
+2021-01-18;5;Centrale;Schiacciata Cotto e Crema;1
+2021-01-18;5;Centrale;Schiacciata Cotto e Form.;1
+2021-01-18;5;Centrale;Schiacciata Crudo e Stracc.;2
+2021-01-18;5;Centrale;Schiacciata Mortad.;2
+2021-01-18;5;Centrale;Schiacciata Prosc.;1
+2021-01-18;5;Centrale;Schiacciata Tartufo;1
+2021-01-18;5;Centrale;Schiacciata Tonno;5
+2021-01-18;5;Centrale;Schiacciata Tonno e Pom.;1
+2021-01-18;5;Meccanici;Panino Cotto e Formaggio;1
+2021-01-18;5;Meccanici;Schiacciata Tartufo;1
+2021-01-16;1;Centrale;Acqua frizzante;1
+2021-01-16;1;Centrale;Panino Cotto e Crema;2
+2021-01-16;1;Centrale;Panino Cotto e Formaggio;1
+2021-01-16;1;Centrale;Panino Crudo e Stracchino;1
+2021-01-16;1;Centrale;Panino Salame;1
+2021-01-16;1;Centrale;Panino Tartufo;1
+2021-01-16;1;Centrale;Pizza;1
+2021-01-16;1;Centrale;Schiacciata Cotto e Crema;1
+2021-01-16;1;Centrale;Schiacciata Cotto e Form.;2
+2021-01-16;1;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-16;1;Centrale;Schiacciata Prosc.;3
+2021-01-16;1;Centrale;Schiacciata Salame;1
+2021-01-16;1;Centrale;Schiacciata Tartufo;1
+2021-01-16;1;Pionta;Acqua naturale;1
+2021-01-16;1;Pionta;Panino Cotto e Crema;3
+2021-01-16;1;Pionta;Panino Salame;1
+2021-01-16;1;Pionta;Panino Tartufo;1
+2021-01-16;1;Pionta;Panino Tonno e Pomodoro;1
+2021-01-16;1;Pionta;Schiacc. Cotto e Insal.;1
+2021-01-16;1;Pionta;Schiacciata Cotto e Crema;1
+2021-01-16;1;Pionta;Schiacciata Cotto e Form.;1
+2021-01-16;1;Pionta;Schiacciata Salame;1
+2021-01-16;1;Pionta;Schiacciata Tartufo;1
+2021-01-16;2;Centrale;Acqua naturale;1
+2021-01-16;2;Centrale;Panino Cotto e Crema;2
+2021-01-16;2;Centrale;Panino Cotto e Formaggio;2
+2021-01-16;2;Centrale;Panino Crudo e Stracchino;1
+2021-01-16;2;Centrale;Panino Prosciutto;4
+2021-01-16;2;Centrale;Panino Tartufo;1
+2021-01-16;2;Centrale;Pizza;1
+2021-01-16;2;Centrale;Schiacc. Cotto e Insal.;4
+2021-01-16;2;Centrale;Schiacciata Cotto e Crema;3
+2021-01-16;2;Centrale;Schiacciata Cotto e Form.;3
+2021-01-16;2;Centrale;Schiacciata Tartufo;2
+2021-01-16;2;Centrale;Schiacciata Tonno e Pom.;1
+2021-01-16;2;Pionta;Acqua frizzante;1
+2021-01-16;2;Pionta;Panino Tonno;2
+2021-01-16;2;Pionta;Schiacciata Cotto e Form.;1
+2021-01-16;2;Pionta;Schiacciata Salame;2
+2021-01-16;2;Pionta;Schiacciata Tonno;1
+2021-01-16;3;Centrale;Acqua frizzante;1
+2021-01-16;3;Centrale;Panino Crudo e Stracchino;1
+2021-01-16;3;Centrale;Panino Prosciutto;1
+2021-01-16;3;Centrale;Pizza;3
+2021-01-16;3;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-16;3;Centrale;Schiacciata Cotto e Form.;1
+2021-01-16;3;Centrale;Schiacciata Crudo e Stracc.;2
+2021-01-16;3;Centrale;Schiacciata Mortad.;1
+2021-01-16;3;Centrale;Schiacciata Prosc.;2
+2021-01-16;3;Centrale;Schiacciata Salame;3
+2021-01-16;3;Centrale;Schiacciata Tartufo;1
+2021-01-16;3;Meccanici;Panino Crudo e Stracchino;1
+2021-01-16;3;Meccanici;Schiacciata Tonno e Pom.;1
+2021-01-16;4;Centrale;Panino Cotto e Crema;1
+2021-01-16;4;Centrale;Panino Prosciutto;2
+2021-01-16;4;Centrale;Panino Tartufo;3
+2021-01-16;4;Centrale;Panino Tonno;1
+2021-01-16;4;Centrale;Panino Tonno e Pomodoro;1
+2021-01-16;4;Centrale;Pizza;2
+2021-01-16;4;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-16;4;Centrale;Schiacciata Cotto e Crema;5
+2021-01-16;4;Centrale;Schiacciata Cotto e Form.;2
+2021-01-16;4;Centrale;Schiacciata Mortad.;2
+2021-01-16;4;Centrale;Schiacciata Salame;1
+2021-01-16;4;Centrale;Schiacciata Tonno;3
+2021-01-16;4;Meccanici;Panino Crudo e Stracchino;1
+2021-01-16;4;Meccanici;Schiacciata Cotto e Form.;1
+2021-01-16;4;Meccanici;Schiacciata Tartufo;1
+2021-01-16;5;Centrale;Acqua naturale;1
+2021-01-16;5;Centrale;Panino Cotto e Crema;1
+2021-01-16;5;Centrale;Panino Tartufo;1
+2021-01-16;5;Centrale;Panino Tonno;2
+2021-01-16;5;Centrale;Pizza;1
+2021-01-16;5;Centrale;Schiacc. Cotto e Insal.;2
+2021-01-16;5;Centrale;Schiacciata Cotto e Crema;2
+2021-01-16;5;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-16;5;Centrale;Schiacciata Mortad.;1
+2021-01-16;5;Centrale;Schiacciata Tonno;1
+2021-01-16;5;Meccanici;Panino Tartufo;1
+2021-01-16;5;Meccanici;Pizza sfoglia;1
+2021-01-16;5;Meccanici;Schiacciata Cotto e Crema;1
+2021-01-16;5;Meccanici;Schiacciata Cotto e Form.;1
+2021-01-16;5;Meccanici;Schiacciata Tartufo;1
+2021-01-15;1;Centrale;Acqua naturale;1
+2021-01-15;1;Centrale;Pizza;1
+2021-01-15;1;Centrale;Schiacciata Cotto e Crema;1
+2021-01-15;1;Centrale;Schiacciata Cotto e Form.;1
+2021-01-15;1;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-15;1;Centrale;Schiacciata Prosc.;1
+2021-01-15;1;Centrale;Schiacciata Salame;1
+2021-01-15;1;Centrale;Schiacciata Tartufo;1
+2021-01-15;1;Pionta;Acqua frizzante;1
+2021-01-15;1;Pionta;Panino Cotto e Crema;3
+2021-01-15;1;Pionta;Panino Tonno;1
+2021-01-15;1;Pionta;Schiacc. Cotto e Insal.;1
+2021-01-15;1;Pionta;Schiacciata Cotto e Crema;1
+2021-01-15;1;Pionta;Schiacciata Salame;1
+2021-01-15;1;Pionta;Schiacciata Tartufo;1
+2021-01-15;2;Centrale;Acqua naturale;2
+2021-01-15;2;Centrale;Panino Cotto e Crema;2
+2021-01-15;2;Centrale;Panino Cotto e Formaggio;2
+2021-01-15;2;Centrale;Panino Cotto e Insalata;1
+2021-01-15;2;Centrale;Panino Crudo e Stracchino;1
+2021-01-15;2;Centrale;Panino Tartufo;1
+2021-01-15;2;Centrale;Panino Tonno;1
+2021-01-15;2;Centrale;Pizza sfoglia;1
+2021-01-15;2;Centrale;Schiacc. Cotto e Insal.;6
+2021-01-15;2;Centrale;Schiacciata Cotto e Crema;1
+2021-01-15;2;Centrale;Schiacciata Cotto e Form.;1
+2021-01-15;2;Centrale;Schiacciata Mortad.;1
+2021-01-15;2;Centrale;Schiacciata Prosc.;4
+2021-01-15;2;Centrale;Schiacciata Salame;1
+2021-01-15;2;Centrale;Schiacciata Tonno;1
+2021-01-15;2;Pionta;Panino Cotto e Formaggio;1
+2021-01-15;2;Pionta;Panino Mortadella;1
+2021-01-15;2;Pionta;Panino Prosciutto;1
+2021-01-15;2;Pionta;Panino Tonno;1
+2021-01-15;2;Pionta;Schiacciata Prosc.;1
+2021-01-15;2;Pionta;Schiacciata Tonno;1
+2021-01-15;3;Centrale;Panino Cotto e Crema;2
+2021-01-15;3;Centrale;Panino Cotto e Formaggio;2
+2021-01-15;3;Centrale;Panino Cotto e Insalata;1
+2021-01-15;3;Centrale;Panino Crudo e Stracchino;1
+2021-01-15;3;Centrale;Panino Prosciutto;1
+2021-01-15;3;Centrale;Panino Salame;1
+2021-01-15;3;Centrale;Panino Tartufo;1
+2021-01-15;3;Centrale;Panino Tonno;1
+2021-01-15;3;Centrale;Pizza;1
+2021-01-15;3;Centrale;Pizza sfoglia;2
+2021-01-15;3;Centrale;Schiacc. Cotto e Insal.;4
+2021-01-15;3;Centrale;Schiacciata Cotto e Crema;2
+2021-01-15;3;Centrale;Schiacciata Cotto e Form.;1
+2021-01-15;3;Centrale;Schiacciata Mortad.;3
+2021-01-15;3;Centrale;Schiacciata Prosc.;3
+2021-01-15;3;Centrale;Schiacciata Salame;3
+2021-01-15;3;Centrale;Schiacciata Tonno;1
+2021-01-15;3;Meccanici;Pizza sfoglia;1
+2021-01-15;4;Centrale;Acqua naturale;1
+2021-01-15;4;Centrale;Panino Cotto e Crema;1
+2021-01-15;4;Centrale;Panino Crudo e Stracchino;1
+2021-01-15;4;Centrale;Panino Prosciutto;1
+2021-01-15;4;Centrale;Panino Tartufo;2
+2021-01-15;4;Centrale;Pizza;1
+2021-01-15;4;Centrale;Pizza sfoglia;1
+2021-01-15;4;Centrale;Schiacc. Cotto e Insal.;4
+2021-01-15;4;Centrale;Schiacciata Cotto e Form.;1
+2021-01-15;4;Centrale;Schiacciata Prosc.;3
+2021-01-15;4;Centrale;Schiacciata Tonno;3
+2021-01-15;4;Centrale;Schiacciata Tonno e Pom.;1
+2021-01-15;4;Meccanici;Panino Cotto e Formaggio;1
+2021-01-15;4;Meccanici;Schiacciata Cotto e Form.;2
+2021-01-15;5;Centrale;Acqua naturale;1
+2021-01-15;5;Centrale;Panino Prosciutto;1
+2021-01-15;5;Centrale;Pizza;1
+2021-01-15;5;Centrale;Schiacc. Cotto e Insal.;3
+2021-01-15;5;Centrale;Schiacciata Cotto e Crema;1
+2021-01-15;5;Centrale;Schiacciata Cotto e Form.;1
+2021-01-15;5;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-15;5;Centrale;Schiacciata Mortad.;1
+2021-01-15;5;Centrale;Schiacciata Tartufo;2
+2021-01-15;5;Centrale;Schiacciata Tonno;2
+2021-01-15;5;Meccanici;Acqua naturale;1
+2021-01-15;5;Meccanici;Panino Cotto e Crema;1
+2021-01-15;5;Meccanici;Pizza sfoglia;1
+2021-01-15;5;Meccanici;Schiacc. Cotto e Insal.;1
+2021-01-14;4;Centrale;Panino Tonno;2
+2021-01-14;4;Centrale;Schiacciata Crudo e Stracc.;1
+2021-01-14;4;Centrale;Schiacciata Tonno e Pom.;2
